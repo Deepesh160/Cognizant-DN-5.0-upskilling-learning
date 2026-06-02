@@ -1,1 +1,0 @@
-public class ReflectionDemo{public static void main(String[]a)throws Exception{Class<?> c=Class.forName("java.lang.String");for(var m:c.getDeclaredMethods()){} }}
