@@ -1,1 +1,0 @@
-public class CustomExceptionDemo{public static void main(String[]a)throws Exception{int age=15;if(age<18)throw new InvalidAgeException("Invalid Age");}}
