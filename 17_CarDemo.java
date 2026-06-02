@@ -1,1 +1,0 @@
-public class CarDemo{public static void main(String[]a){Car c=new Car();c.make="Toyota";c.model="Camry";c.year=2024;c.displayDetails();}}
