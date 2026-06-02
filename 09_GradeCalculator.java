@@ -1,1 +1,0 @@
-import java.util.*; public class GradeCalculator{public static void main(String[]a){int m=new Scanner(System.in).nextInt();System.out.println(m>=90?"A":m>=80?"B":m>=70?"C":m>=60?"D":"F");}}
