@@ -1,1 +1,0 @@
-import java.util.*; public class LambdaDemo{public static void main(String[]a){List<String> l=Arrays.asList("B","A");Collections.sort(l,(x,y)->x.compareTo(y));System.out.println(l);}}
