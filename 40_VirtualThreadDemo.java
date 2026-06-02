@@ -1,0 +1,1 @@
+public class VirtualThreadDemo{public static void main(String[]a){System.out.println("Virtual Threads Java 21");}}
