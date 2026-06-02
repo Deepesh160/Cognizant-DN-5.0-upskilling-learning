@@ -1,1 +1,0 @@
-public class PatternMatchingSwitch{static void test(Object o){switch(o){case Integer i->System.out.println(i);case String s->System.out.println(s);default->System.out.println("Other");}} public static void main(String[]a){test(5);}}
